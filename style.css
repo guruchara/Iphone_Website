@@ -1,0 +1,44 @@
+ul{  
+    width: 100%;
+    margin-top: -.50rem;  
+    margin-left: -.3rem;    ;  
+    padding: 0;
+    list-style: none;
+    height: 40px;
+    background-color: black;
+    font-family: sans-serif;    
+    font-size: 14px;    
+    text-align:center;
+    line-height: 36px;        
+}
+li{
+  float: left;
+  border: 1px solid black;  
+  margin-right:10px;       
+}
+a{
+    margin: left 3rem;
+    color:rgb(187, 184, 184);        
+    display: block;
+    padding: 0 28px;
+    text-decoration: none;      
+}
+a:hover{
+    color: white;
+}
+
+h2
+{
+     margin-left: 15rem;
+    font-family: sans-serif;
+}
+.vid
+{
+    margin: 0%;
+    height: 800px;
+    width: 1800px;
+    margin-top: -2.5rem;
+    margin: left -1rem;
+    align-items:flex-start;
+    margin-left: -1rem;
+}
